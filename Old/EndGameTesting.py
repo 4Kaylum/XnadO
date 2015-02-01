@@ -57,7 +57,7 @@ def winningMoves(i):
 	# 	if z < x and z >= 0:
 	# 		wins[0].append( (cha + i) )
 
-	print wins
+	print (wins)
 	return wins
 
 	# return [ [ (i,0)  ,  (i+1,0)  ,  (i+2,0) ]   , \
