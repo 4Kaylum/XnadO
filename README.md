@@ -1,1 +1,1 @@
-# XnadO
+A simple 1v1 game of Tic Tac Toe~
